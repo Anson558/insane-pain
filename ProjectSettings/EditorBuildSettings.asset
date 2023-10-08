@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/StartMenu.unity
+    guid: dc18d16004a4a5a428ca7cbe2f06bbe9
+  - enabled: 1
+    path: Assets/Scenes/Menus/ChaptersMenu.unity
+    guid: a0ca8b0fb00f0cb40af0ffbbb88f6f71
+  - enabled: 1
+    path: Assets/Scenes/Menus/ControlsMenu.unity
+    guid: 4d811e53bde3a1b47851c80d6cdd060e
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/PrisonCell.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,1.unity
+    guid: bd5aac02e34da6a45880004badf570aa
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,2.unity
+    guid: c1b393e2714bd564bb747405798bad4e
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,3.unity
+    guid: cbc39ae57f0dc8e4e89d3b8ab706e683
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,4.unity
+    guid: 60e59a545c4cba4439c6f8f5e814c8d4
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,5.unity
+    guid: 9fb0d069d2e3fb6499956c7a9ad86220
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,6.unity
+    guid: b3791cb6363c9ba418a24834c116e220
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,7.unity
+    guid: 52a400317b76719498c1568f75134991
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,8.unity
+    guid: b6bd8debb8a899e4689d24ca52760cb3
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,9.unity
+    guid: c9782a4ed12fb31469a5cd930574bdfa
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1,10.unity
+    guid: e2e371018f91f85468ab52fab36bede9
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,1.unity
+    guid: 7dd9495233b8b4f419941b6c178a1262
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,2.unity
+    guid: bacfa92e18df9b343bccdb1bf1049df5
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,3.unity
+    guid: da5b913c162c1a249b2ad9adfd81a2b1
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,4.unity
+    guid: 55548377822391b43b99f60c61cc229b
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,5.unity
+    guid: ef9d43f181a6fa14280e81dc1345a294
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,6.unity
+    guid: d75b15e0dcd646c40975eb370ad87390
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,7.unity
+    guid: 8c1229ebf31c3e34fb359f4183d46696
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,8.unity
+    guid: ff4622e171acac4499bf74921813d798
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,9.unity
+    guid: 42889cc95407bdc4a9f60c292be30593
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/2,10.unity
+    guid: d0b80c3d2051c714aa124e0314ad447f
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/3,1.unity
+    guid: 001435fd569aa434fa7a384f15a8bee5
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/3,2.unity
+    guid: b59bc74343a33fc4ca9b22912d9eed40
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/3,3.unity
+    guid: 9cc3e3aa7f669334ba7a4c91d6bc40bf
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/3,4.unity
+    guid: 0ceaa5720d7822b45add8cb81edbd62c
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/3,5.unity
+    guid: 157f9a32e2b6525409bccd0d88b99dd0
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/3,7.unity
+    guid: 9d15c4c1e31812a4e9a7ea9bb1dd9484
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/3,8.unity
+    guid: bbbe83f52c3458649a04b6d7133235a8
+  - enabled: 1
+    path: Assets/Scenes/Farewell.unity
+    guid: 57a47272103a31d448c6542f3d49a80a
+  - enabled: 1
+    path: Assets/Scenes/BetterEnding.unity
+    guid: 38e1d9e5f24de1e4ab9c7d7a834fa28b
+  - enabled: 1
+    path: Assets/Scenes/Menus/Credits.unity
+    guid: 512ad7cbe94842040b5524cdc2cc1f3b
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 8e286f8fbfae2604f87f590dafade30f, type: 2}
